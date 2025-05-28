@@ -1,1 +1,3 @@
-Prácticas integrales de Python
+# python-practicas
+
+Repositorio con prácticas integrales de Python
