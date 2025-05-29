@@ -9,3 +9,6 @@ Repositorio con prácticas integrales de Python
 -Nicolás González
 -Romina Morgade
 -Cyntia Dominguez
+-Leonel Vera
+-Nicolás Cruzate
+-Natalia Miño
