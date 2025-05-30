@@ -7,7 +7,7 @@ intentos = 1
 
 while incorrecto and intentos<=5:
     
-    valorIngresado = input("Ingrsar número entre 1 y 20: ")
+    valorIngresado = input("Ingresar número entre 1 y 20: ")
     
     #Valido si se ingresan números o caracteres
     if(valorIngresado.isdigit()):
