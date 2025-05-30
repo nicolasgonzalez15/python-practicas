@@ -18,3 +18,8 @@ Repositorio con prácticas integrales de Python
 # Participantes Proyecto 2
 
 -Nicolás González
+-Carla Aguilar
+-Ingrid Gudiño
+-Lorena Rivero
+-Miguel Donscheff
+-MigueL Flores Dev Ops
